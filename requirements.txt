@@ -1,0 +1,6 @@
+flask==2.0.1
+waitress==2.0.0
+git+https://github.com/huggingface/transformers.git@main
+git+https://github.com/huggingface/peft.git@main
+librosa
+werkzeug==2.0.1
